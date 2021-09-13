@@ -16,4 +16,4 @@ The three test files provided are included and their matching output files are a
 Additionally, a '@SuppressWarnings("unchecked")' was added to HeapPriorityQueue.java to have cleaner output when program is ran in terminal or console.
 
 ### Resources and References
-PriorityQueue.java, HeapPriorityQueue.java and Entry.java (lab solutions from CSI2110-D)
+PriorityQueue.java, HeapPriorityQueue.java and Entry.java - taken from Data Structures textbook
